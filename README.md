@@ -1,4 +1,7 @@
-# Store
+# Desafio angular PSN store
+
+![image](https://github.com/MaikoDuarte/desafio-angular-psn-store/assets/46424572/858fc9c7-9b43-4bd6-b34d-c5bf42c7fc01)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
